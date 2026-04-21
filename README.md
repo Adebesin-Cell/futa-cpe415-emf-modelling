@@ -120,15 +120,6 @@ python3 md_to_docx.py     # converts .md → .docx
 ```
 
 Everything regenerates from `field_measurements.csv` in ~2 seconds.
-
----
-
-## 📮 Submission plan
-
-1. **Early submission (Methods + Results only):** email `softcopyfiles001@gmail.com` with `outputs/CPE415_Methods.docx` + `outputs/CPE415_Results.docx` for lecturer feedback.
-2. **Apply feedback**, finish Introduction + Conclusion, merge into a single report.
-3. **Final submission** — hard copy via group rep, soft copy to the same email — **before 24 April 2026**.
-
 ---
 
 ## 🙌 Credits
