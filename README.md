@@ -92,23 +92,6 @@ mts-415/
 
 ---
 
-## 👥 Who does what
-
-| Section | Owner | Status |
-|---|---|---|
-| Data digitisation & CSV | Lope | ✅ done |
-| Python analysis pipeline | Lope | ✅ done |
-| **Methods (Section II)** | Lope | ✅ done — `METHODS.md` + `outputs/CPE415_Methods.docx` |
-| Results & Discussion (Section V) | TBD | 🟡 draft ready in `outputs/report.md` |
-| Introduction + Literature (Section I) | TBD | ⬜ |
-| Regulatory Compliance (Section VI) | TBD | ⬜ |
-| Conclusion (Section VII) | TBD | ⬜ |
-| Formatting + references | TBD | ⬜ |
-
-**Claim a section in the group chat and update this table when you start.**
-
----
-
 ## 🔧 Reproducing the analysis locally (optional)
 
 Only needed if you want to re-run the pipeline, change the CSV, or regenerate plots. If you're just writing — you don't need to run anything; the outputs are already in `outputs/`.
